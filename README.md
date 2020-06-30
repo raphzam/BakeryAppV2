@@ -1,5 +1,7 @@
 #BakeryApp
 
+Contributors: Amaya Causey, Raphael Zamora
+
 Create at least 15 baked goods and save it into a collection of data.
  Each baked good has a name, price, an expiration date, one or more diet restrictions
  (ie. gluten allergies), and quantity in stock. The program should allow the user 
